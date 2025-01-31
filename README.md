@@ -2,7 +2,8 @@ Wanderlust - Explore the World 🌍
 Welcome to the Wanderlust repository! Wanderlust is a full-stack web application designed for travel enthusiasts to discover, plan, and share their adventures. Built using the MERN stack (MongoDB, Express.js, React, Node.js) and following MVC architecture, it features user authentication, interactive maps, and travel blogs.
 
 🚀 Live Demo
-Check out the live version of the project here: Wanderlust Live Demo
+Check out the live version of the project here: 
+https://wanderlust-e8zp.onrender.com/listings
 
 🛠️ Features
 User Authentication: Sign up, log in, and manage your profile.
